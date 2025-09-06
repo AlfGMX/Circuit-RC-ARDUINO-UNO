@@ -19,7 +19,6 @@ $$\text{Temps} = 5 \cdot R \cdot C = 5 \cdot (100 \cdot 10^3 \ \Omega) \cdot (22
 
 Aquest és el temps necessari perquè el condensador es carregui o es descarregui gairebé per complet.
 
-El senyal entra a l'Arduino per l'entrada analògica A0, s'escala i s'envia al port sèrie per a la monitorització.
 
 ### Funcionament de la lectura amb Arduino
 
