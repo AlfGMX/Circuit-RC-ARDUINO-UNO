@@ -1,7 +1,7 @@
 # Circuit-RC-TinkerCad-Arduino-UNO
 ### **Descripció del circuit RC amb Arduino UNO R3**
 
-La placa Arduino UNO R3 s'utilitza per a monitoritzar la caiguda de tensió a la resistència del circuit. A més, proporciona l'alimentació necessària al circuit. La tensió a la qual arriba el condensador en carregar-se és de **5 V**, que és el valor de la tensió d'alimentació.
+Vegeu el jpg. La placa Arduino UNO R3 s'utilitza per a monitoritzar la caiguda de tensió a la resistència del circuit. A més, proporciona l'alimentació necessària al circuit. La tensió a la qual arriba el condensador en carregar-se és de **5 V**, que és el valor de la tensió d'alimentació.
 
 Per tal que el procés de càrrega/descàrrega del condensador duri un temps adequat, hem hagut d'ajustar el valor de la resistència i capacitat de condensador.
 
